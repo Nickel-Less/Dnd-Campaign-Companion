@@ -1,5 +1,5 @@
 # Dnd-Campaign-Companion
-An application in process that replaces the traditional D&amp;D 3.5 character sheet, with added features
+An application that replaces the traditional D&amp;D 3.5 character sheet, with added features.
 
 ### How to start development
 
