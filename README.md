@@ -14,4 +14,8 @@ An application that replaces the traditional D&amp;D 3.5 character sheet, with a
 * [Ionic Framework Getting Started](http://ionicframework.com/getting-started)
 
 
+Creators:
+  Dev Lead: Nicholas Olson
+  Developers: Jacob Shouse
+
 
